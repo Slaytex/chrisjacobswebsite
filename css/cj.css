@@ -1,0 +1,293 @@
+body
+{
+	background: url(../img/bg.jpg) #282828;
+}
+
+
+p
+{
+	padding: 0 40px;
+}
+
+.ipgcopy
+{
+	font: 16px/28px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #7c7c7c;
+	padding-bottom: 12px;
+}
+
+.whatsthis
+{
+    color: white;
+}
+
+.whatsthis:hover
+{
+    color: white;
+    text-decoration: underline;
+}
+
+.navhilite
+{
+	background: #26B8E3;
+	color: white;
+	padding: 2px 5px 2px 4px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	text-decoration: none;
+}
+
+.navhilite:hover
+{
+	text-decoration: none;
+	color: white;
+	cursor: text;
+}
+
+.pipenav
+{
+	color: #14578d;
+}
+
+.paragraphnav
+{
+	color: #a4a4a4;
+	font-size: 15px;
+	line-height: 29px;
+	margin-bottom: 36px;
+	text-align: center;
+}
+
+.checkbox.checkmove
+{
+    margin-top: 5px;
+    font: italic 14px Georgia, "Times New Roman", Times, serif;
+    color: #96dafd;
+}
+
+textarea, input
+{
+    background-color:#216688 !important; border: 1px solid #247196 !important; color: white !important;
+}
+
+
+
+label
+{
+    color: #5cbbeb;
+    font-size: 11px;
+}
+
+.checkme
+{
+    
+}
+
+.footerback
+{
+    background-color: #277095;
+    padding: 40px
+}
+
+.yoostar
+{
+    margin: 15px 0 0 0;
+}
+
+.avatar
+{
+    position: relative;
+    top: -14px;
+}
+
+.projectdescription
+{
+	color: #707070;
+	font: 13px/23px Georgia, 'Times New Roman', Times, serif;
+	font-style: italic;
+	text-align: center;
+}
+
+.projecttitle
+{
+	font: 17px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #3998C3;
+	position: relative;
+	top: -6px;
+	text-align: center;
+}
+
+.responsibilities
+{
+	font: italic 13px Georgia, "Times New Roman", Times, serif;
+	color: #e97d3b;
+	margin-right: -88px;
+}
+
+[class*="icon"]
+{
+color: #e97d3b !important;
+}
+
+
+.ipgsubcopy
+{
+	font: 11px/19px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	color: #7c7c7c;
+	padding-bottom: 30px;
+	
+}
+
+.chrisjacobslogo
+{
+	margin: 0;
+}
+
+.homedescription
+{
+	color: #cccccc;
+	text-align: center;
+	font-style: italic;
+	font: italic 12px/23px Georgia, "Times New Roman", Times, serif;
+	color: #BCBEBE;
+	padding:10px;
+}
+
+
+
+#main
+{
+	background-color: #fff;
+}
+
+.borderon
+{
+	border: 1px solid red !important;
+}
+
+.projectlogo
+{
+	text-align: center;
+}
+
+.splashthumbnails
+{
+	border: 1px solid #252525;
+}
+
+.vimeo
+{
+    font: italic normal 13px Georgia, "Times New Roman", Times, serif;
+    color: #3998C3;
+}
+
+.vimeohd
+{
+    font: italic normal 12px Georgia, "Times New Roman", Times, serif;
+    color: #3998C3;
+    position: relative;
+    top: 11px;
+}
+
+a.thumbnail:hover
+{
+	border: 1px solid #454545;
+}
+
+.homeheading
+{
+	color: #d8d8d8;
+	text-align: center;
+	font: 18px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+
+.js-video
+{
+	height: 0;
+	padding-top: 0;
+	padding-bottom: 57%;
+	margin-bottom: 10px;
+	margin-bottom: 20px;
+	position: relative;
+	overflow: hidden;
+}
+
+.js-video.widescreen
+{
+	padding-bottom: 57.25%;
+}
+
+.js-video.vimeo
+{
+	padding-top: 0;
+}
+
+.js-video embed, .js-video iframe, .js-video object, .js-video video
+{
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+}
+
+
+
+.ipg
+{
+	margin: 32px 30px;
+}
+
+.futureunited
+{
+	margin: 15px 30px 20px;
+}
+
+.forkheadings
+{
+	color: #878787;
+	font: 15px Georgia, "Times New Roman", Times, serif;
+	text-align: center;
+}
+
+
+.footer
+{	
+	
+	text-align: center;
+	color: #565656;
+	font: italic 13px Georgia, "Times New Roman", Times, serif;
+}
+
+.scribble
+{
+	height: 35px; background: #f5f5f5 url('../img/scribble.jpg') no-repeat left top;x
+}
+
+@font-face {
+    font-family: 'JournalRegular';
+    src: url('fonts/journal/journal-webfont.eot');
+    src: url('fonts/journal/journal-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/journal/journal-webfont.woff') format('woff'),
+         url('fonts/journal/journal-webfont.ttf') format('truetype'),
+         url('fonts/journal/journal-webfont.svg#JournalRegular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'UbuntuTitlingBold';
+    src: url('fonts/ubuntu/UbuntuTitling-Bold-webfont.eot');
+    src: url('fonts/ubuntu/UbuntuTitling-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/ubuntu/UbuntuTitling-Bold-webfont.woff') format('woff'),
+         url('fonts/ubuntu/UbuntuTitling-Bold-webfont.ttf') format('truetype'),
+         url('fonts/ubuntu/UbuntuTitling-Bold-webfont.svg#UbuntuTitlingBold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+.navbar-inner .container {width:960px;}

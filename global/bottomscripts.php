@@ -1,0 +1,22 @@
+<script src="http://code.jquery.com/jquery-latest.js" type="text/javascript"></script>
+<script src="js/bootstrap.min.js" type="text/javascript"></script>
+
+        
+	<!-- FancyBox -->
+		<script src="js/fancybox/jquery.fancybox.js"></script>
+		<script src="js/fancybox/jquery.fancybox-buttons.js"></script>
+		<script src="js/fancybox/jquery.fancybox-thumbs.js"></script>
+	    <script src="js/fancybox/jquery.easing-1.3.pack.js"></script>
+		<script src="js/fancybox/jquery.mousewheel-3.0.6.pack.js"></script>
+	    
+	    <script type="text/javascript">
+			$(document).ready(function() {
+			$(".fancybox").fancybox();
+			$('#tooltip1, #tooltip2').tooltip();
+		
+			});
+		</script>
+
+
+</body>
+</html>
