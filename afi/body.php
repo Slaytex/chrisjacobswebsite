@@ -4,7 +4,7 @@
             <img src="img/afi/afi_logo.png" alt="American Film Institute and ABC Entertainment" />
                 <h4 class="projecttitle">AFI Digifest 2008 (abc)</h4>
                 <p class="projectdescription">
-                Developed for American Film Institute and ABC, this interface brings a non-linear spin to the chat interface. Brought to life from soup to nuts in less then 6 weeks, this interface was presented to an audience of 500 at AFI Digifest 2008 at the Kodak theater - the home of the Academy Awards.<br />It was a hit.</p>
+                this was Developed for American Film Institute and ABC, this interface brings a non-linear spin to the chat interface. Brought to life from soup to nuts in less then 6 weeks, this interface was presented to an audience of 500 at AFI Digifest 2008 at the Kodak theater - the home of the Academy Awards.<br />It was a hit.</p>
                 <div class="vimeohd">
                 <a href="http://www.vimeo.com/13744967">
                 <img src="img/vimeo_icon_small.png" width="30" height="30" alt="">
