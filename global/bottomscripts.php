@@ -1,5 +1,6 @@
 <script src="http://code.jquery.com/jquery-latest.js" type="text/javascript"></script>
 <script src="js/bootstrap.min.js" type="text/javascript"></script>
+<script src="js/slaytex.js" type="text/javascript"></script>
 
         
 	<!-- FancyBox -->

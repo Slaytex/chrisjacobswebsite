@@ -14,7 +14,7 @@
       <li><a href="#">Home</a> </li>
       <li class="active"><a href="#">Interactive</a></li>
       <li><a href="#">Identity</a></li>
-      <li><a href="http://slaytex:8887">Playground</a></li>
+      <li><a href="http://www.chrisjacobs.com/playground">Playground</a></li>
     </ul>
     </div>
 

@@ -11,6 +11,15 @@
 <link rel="stylesheet" href="css/fancybox/jquery.fancybox-thumbs.css">
 <link rel="stylesheet" href="css/fancybox/jquery.fancybox.css">
 	
+<script type="text/javascript">
+  (function() {
+    var config = {
+      kitId: 'krb1wlg',
+      scriptTimeout: 3000
+    };
+    var h=document.getElementsByTagName("html")[0];h.className+=" wf-loading";var t=setTimeout(function(){h.className=h.className.replace(/(\s|^)wf-loading(\s|$)/g," ");h.className+=" wf-inactive"},config.scriptTimeout);var tk=document.createElement("script"),d=false;tk.src='//use.typekit.net/'+config.kitId+'.js';tk.type="text/javascript";tk.async="true";tk.onload=tk.onreadystatechange=function(){var a=this.readyState;if(d||a&&a!="complete"&&a!="loaded")return;d=true;clearTimeout(t);try{Typekit.load(config)}catch(b){}};var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(tk,s)
+  })();
+</script>
 
     <title>Chris Jacobs Design</title>
 
@@ -51,7 +60,10 @@
 
 <div class="row-fluid">
 	<div class="span6 offset3">
-		<div style="margin: 20px 0 40px 0;"><a href="http://www.chrisjacobs.com"><img class="chrisjacobslogo" src="img/chrisjacobsdesignlogo.png" alt="Chris Jacobs Design | Visual Interface Design / Development and Identity" /></a></div>
+	    <div style="text-align: center;">
+		<div class="logo">CHRIS JACOBS <span class="logolight">DESIGN</span></div>
+		<div class="tagline">VIRTUAL INTERFACE DESIGN / DEVELOPMENT / IDENTITY</div>
+		</div>
 	</div>
 </div>
 
@@ -59,25 +71,57 @@
 
 
 <div id="main">
-    <div class="row-fluid">
-        <div class="parainfo">
-            <div class="chriscopy">Chris Jacobs is a User Experience Designer and Creative Consultant living in Los Angeles. He's been hard at work in this field for just over 18 years. He's a graduate of Art Center College of Design.</div>
-        </div>
-        <div class="expand" data-toggle="collapse" data-target="#contentcollapse1">
-        <div class="accomplishments">Some accomplishments</div>
-        </div>
-            <div data-toggle="collapse" data-target="#contentcollapse1">
-                <div id="contentcollapse1" class="collapse">
-                <div class="ipgsubcopy">Chris has founded two design companies, and sold his first to a publicly traded company. He's worked in Los Angeles, Bombay, Hong Kong, Beijing, and Singapore. He was responsible for the interaction and user-interface design for Interpublic Group Emerging Media Lab's latest "Glass touch screen" technology for the retail industry, which is IPG's flagship touch-point product on display in the Los Angeles and New York offices. He co-founded the Interactive company United Future (Culver City) in 2006, and left in 2011 to pursue new adventures. He currently works as Interactive Creative Director at Tytan Advertising in Tybee Island, Georgia. He's Chief Innovation Officer at Demand Magic in Los Angeles, and has a select group of clients he contracts with in his own design consultancy, Chris Jacobs Design. He's married to the phenomenal photographer and commercial actress, BeBe Jacobs, who is the mother of two beautiful boys. He currently resides in Los Angeles.</div>
-                </div>
-            </div>
+
+
+<div class="row-fluid">
+    <div class="parainfo">
+        <div class="chriscopy">Chris Jacobs is a User Experience Designer (digital and physical) and Creative Consultant living in Los Angeles. His work has spanned many disciplines from Industrial Design, Architecture and User-Interface Design.</div>
     </div>
+    <div class="expand" data-toggle="collapse" data-target="#contentcollapse1">
+    <div class="accomplishments">More info on Chris <span class="icon-circle-arrow-down"></span></div>
+    </div>
+        <div data-toggle="collapse" data-target="#contentcollapse1">
+            <div id="contentcollapse1" class="collapse">
+            <div class="ipgsubcopy">Chris has founded two design companies, and sold his first to a publicly traded company. He's worked in Los Angeles, Bombay, Hong Kong, Beijing, and Singapore. He was responsible for the interaction and user-interface design for Interpublic Group Emerging Media Lab's latest "Glass touch screen" technology for the retail industry, which is IPG's flagship touch-point product on display in the Los Angeles and New York offices. He co-founded the Interactive company United Future (Culver City) in 2006, staying until 2011. He currently works as Interactive Creative Director at Tytan Advertising in Tybee Island, Georgia. He's Chief Innovation Officer at Demand Magic in Los Angeles, and has a select group of clients he contracts with in his own design consultancy, Chris Jacobs Design. He's married to the phenomenal photographer and commercial actress, <a href="http://bebejacobs.com">BeBe Jacobs</a>.</div>
+            </div>
+        </div>
+</div>
+
+
+    <div class="row-fluid">
+    <div class="maincaption">
+    Below is a concept design by Chris Jacobs of a new server appliance design for his revolutionary WiFi platform called Boomzang.</div>
+       <div class="mainheaderimage"><img src="img/tiles/boomzang.jpg" alt="" /></div>
+    </div>
+        
+    
+    
+    
+    
+    
     <div class="row-fluid" style="padding-bottom: 100px;">
-        <div class="navitem"><img src="img/tiles/ipg.jpg" alt="" /></div>
-        <div class="navitem"><img src="img/tiles/yoostar.jpg" alt="" /></div>
-        <div class="navitem"><img src="img/tiles/tour.jpg" alt="" /></div>
-        <div class="navitem"><img src="img/tiles/alpine.jpg" alt="" /></div>
-        <div class="navitem"><img src="img/tiles/abc.jpg" alt="" /></div>
+        <div class="maincaption">
+        Interactive touch screen created for IPG.
+        </div>
+        <div class="navitem"><a href="ipg.php"><img src="img/tiles/ipg.jpg" alt="" /></a></div>
+        
+        <div class="maincaption">Yoostar application interface design. 
+                </div>
+        <div class="navitem"><a href="yoostarapp.php"><img src="img/tiles/yoostar.jpg" alt="" /></a></div>
+        
+        <div class="maincaption">Yoostar product overview interaction design. 
+               </div>
+        <div class="navitem"><a href="yoostartour.php"><img src="img/tiles/tour.jpg" alt="" /></a></div>
+        
+        <div class="maincaption">
+        Alpine Electronics "Experience the Drive" campaign website suite.
+        </div>
+        <div class="navitem"><a href="alpine.php"><img src="img/tiles/alpine.jpg" alt="" /></a></div>
+        
+        <div class="maincaption">
+        ABC Television website concept designs.
+        </div>
+        <div class="navitem"><a href="abc.php"><img src="img/tiles/abc.jpg" alt="" /></a></div>
     </div>
 </div>
 

@@ -23,9 +23,13 @@ p
 
 .chriscopy
 {
-    font: 27px/37px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-    color: #7c7c7c;
+    font-size: 27px;
+    font-family: "nimbus-sans";
+    font-style: normal;
+    font-weight: 300;
+    color: #5F5F5F;
     padding-bottom: 12px;
+    line-height: 29px;
     
 }
 
@@ -33,7 +37,7 @@ p
 
 .navitem
 {
-    padding: 20px;
+    padding: 0 20px 20px;
     list-style: none;
     
 }
@@ -76,7 +80,7 @@ p
 	color: #a4a4a4;
 	font-size: 15px;
 	line-height: 29px;
-	margin-bottom: 36px;
+	margin-bottom: 28px;
 	text-align: center;
 }
 
@@ -137,6 +141,24 @@ label
 	text-align: center;
 }
 
+.maincaption
+{
+    z-index: 7;
+    font-size: 11px;
+    background-color: rgb(89, 121, 130);
+    padding: 11px 18px;
+    color: white;
+    line-height: 13px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.mainheaderimage
+{
+    padding: 0 20px 20px;
+}
+
 .projecttitle
 {
 	font: 17px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
@@ -148,20 +170,24 @@ label
 
 .parainfo
 {
-    margin-top: 40px;
-    padding: 0 19px 15px 19px;
+    margin-top: 54px;
+    padding: 0 19px 5px;
 }
 
 .responsibilities, .accomplishments
 {
-	font: italic 13px Georgia, "Times New Roman", Times, serif;
-    padding: 0 19px 10px 19px;
+	font-family: "nimbus-sans";
+	font-style: normal;
+	font-weight: 300;
+    padding: 0 19px 10px;
+    margin-bottom: 4px;
 }
 
 .accomplishments:hover
 {
 color: #386384;
 cursor: pointer;
+text-decoration: underline;
  
 }
 
@@ -177,12 +203,36 @@ color: #e97d3b !important;
 	font: 11px/19px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
 	color: #7c7c7c;
 	padding: 0 19px 0 19px;
-	
+    margin-bottom: 7px;
 }
 
-.chrisjacobslogo
+
+.tagline
 {
-	margin: 0;
+  font-size: 13px;
+  font-family: "nimbus-sans";
+  font-style: normal;
+  font-weight: 300;
+  color: #5F5F5F;
+  margin: 6px 0 33px;
+}
+
+.logo
+{
+    font-size: 27px;
+    margin-top: 20px;
+    font-family: "nimbus-sans";
+    font-style: normal;
+    font-weight: 700;
+    color: #5F5F5F;
+    }
+
+
+.logolight
+{
+    font-family: nimbus-sans;
+    font-weight: 300;
+    font-style: normal;
 }
 
 .homedescription
@@ -348,6 +398,7 @@ a.thumbnail:hover
 #successMessage {
     display:none;
     margin-top:10px;
+    
 }
 #loadergif {
     display:none;
