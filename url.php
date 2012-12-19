@@ -1,4 +1,3 @@
-
 <?php $array = explode('.', str_replace("/", "", $_SERVER['SCRIPT_NAME']));
 
 $pagename= $array[0]; ?> 
