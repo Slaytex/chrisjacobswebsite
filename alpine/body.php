@@ -26,15 +26,8 @@
 </div>
 	
 
-			
 <div class="row-fluid">
-    <div style="margin-top:50px ;">
-    	<div class="span2">
-    		<p class="responsibilities">Responsibilities</p>
+    	<div class="span11">
+    		<p class="responsibilitiesinner">I was responsible for the interaction design, user-interface design and all aspects of design and usability. 3d models were used extensively. All head-units showed the real time, rather then a canned time - and each head-unit could be flipped around and explored. Custom sound effects as well as music tracks were implemented into the interaction design. Each site was translated into multiple languages and served around the world.</p>
     	</div>
-    	<div class="span10">
-    		<p class="ipgsubcopy">I was responsible for the interaction design, user-interface design and the prototype itself. The prototype was built in Photoshop and then animated using Adobe After Effects. I also modeled the camera, tripod and all products shown in the video using Rhino - a NURBS modeling application.</p>
-    	</div>
-	</div>
-
 </div>

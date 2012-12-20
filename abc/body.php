@@ -27,15 +27,9 @@
 </div>
 	
 
-			
-<div class="row-fluid">
-    <div style="margin-top:50px ;">
-    	<div class="span2">
-    		<p class="responsibilities">Responsibilities</p>
-    	</div>
-    	<div class="span10">
-    		<p class="ipgsubcopy">I was responsible for the design concept, visual design, interaction design, direction of the motion prototype and all aspects of this project.</p>
-    	</div>
-	</div>
 
+<div class="row-fluid">
+    	<div class="span11">
+    		<p class="responsibilitiesinner">I was responsible for the design concept, visual design, interaction design, direction of the motion prototype and all aspects of this project.</p>
+    	</div>
 </div>

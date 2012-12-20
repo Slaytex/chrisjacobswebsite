@@ -27,9 +27,6 @@
 	</div>
 	
 	<div class="row-fluid">
-		<div class="span2">
-			<p class="responsibilities">Responsibilities</p>
-		</div>
 		<div class="span10">
 			<p class="ipgsubcopy">I was responsible for the design, interaction, as well as the photography strategy. With the fantastic help of Marc Johnson, strategy and Khue Jacobs, photography, as well as our fantastic Flash team in Seattle, this interface took flight just in time for IPG's big meeting of brand strategy leaders and retail touch-point pioneers.<a class="hidden-phone hidden-tablet" href="http://work.wongdoody.com/ipg">You can see it in action here</a>. It's large and very vertical. Works best with a rotated monitor.</p>
 		</div>

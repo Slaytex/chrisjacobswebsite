@@ -1,8 +1,3 @@
-<div class="row-fluid">
-	<div class="span4">
-		<p class="responsibilities">Click or touch to zoom.</p>
-	</div>
-</div>
 
 <div class="row-fluid">
 	<div class="span12">

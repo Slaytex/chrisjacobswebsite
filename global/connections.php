@@ -10,3 +10,6 @@
 <link rel="stylesheet" href="css/fancybox/jquery.fancybox-thumbs.css">
 <link rel="stylesheet" href="css/fancybox/jquery.fancybox.css">
 	
+	<script type="text/javascript" src="//use.typekit.net/krb1wlg.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+	

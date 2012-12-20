@@ -20,8 +20,6 @@ $pagename= $array[0]; ?>
 
 <div id="wrap"> 
 
-<?php include("global/scribble.php"); ?>
-
 <div class="container" id="innerwrap"> <!--innerwrap-->
 
 <?php include("global/logo.php"); ?>

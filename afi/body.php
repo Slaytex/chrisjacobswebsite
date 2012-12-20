@@ -26,12 +26,7 @@
 
 
 <div class="row-fluid">
-    <div style="margin-top:50px ;">
-        <div class="span2">
-            <p class="responsibilities">Responsibilities</p>
-        </div>
-        <div class="span10">
-            <p class="ipgsubcopy">I was responsible for the interaction design, user-interface design and the prototype itself. The prototype was built in Photoshop and then animated using Adobe After Effects.</p>
-        </div>
-    </div>
+    	<div class="span11">
+    		<p class="responsibilitiesinner">I was responsible for the interaction design, user-interface design and the prototype itself. The prototype was built in Photoshop and then animated using Adobe After Effects. I had sketched out a totally new way to navigate chat "bubbles" via a 3d interface. 2 years later, Apple patented almost an identical method of moving through buckets of information in a 3d space.</p>
+    	</div>
 </div>

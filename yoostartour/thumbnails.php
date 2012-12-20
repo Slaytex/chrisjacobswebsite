@@ -1,22 +1,4 @@
-<div class="row-fluid">
-    <div style="margin-top:50px ;">
-    	<div class="span2">
-    		<p class="responsibilities">Responsibilities</p>
-    	</div>
-    	<div class="span10">
-    		<p class="ipgsubcopy">I was responsible for the interaction design, user-interface design and the prototype itself. The prototype was built in Photoshop and then animated using Adobe After Effects. I also modeled the camera, tripod and all products shown in the video using Rhino - a NURBS modeling application.</p>
-    	</div>
-	</div>
 
-</div>
-	
-	
-	<div class="row-fluid">
-		<div class="span4">
-			<p class="responsibilities">Click or touch to zoom.</p>
-		</div>
-	</div>
-	
 	<div class="row-fluid">
 		<div class="span12">
 			<div style="padding:0 40px;">
