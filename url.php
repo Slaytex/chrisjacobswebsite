@@ -28,7 +28,7 @@ $pagename= $array[0]; ?>
 <!--inside nav-->
 
 <div class="row-fluid">
-    <div class="span10 offset1">
+    <div class="span12">
         <p class="paragraphnav">
         <a class="" href="<?php echo $navurl1 ?>"><?php echo $nav1 ?></a>
         
@@ -51,6 +51,12 @@ $pagename= $array[0]; ?>
         <span class="pipenav"> | </span>
         
         <a class="" href="<?php echo $navurl6 ?>"><?php echo $nav6 ?></a>
+        
+        <br />
+                
+        <a class="" href="portfolio/portfolio.pdf">Work as PDF</a> <span class="pipenav"> | </span>
+        
+        <a class="" href="<?php echo $navurl7 ?>"><?php echo $nav7 ?></a>
         
         </p>	
     </div>
