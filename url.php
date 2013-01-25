@@ -1,4 +1,6 @@
-<?php $array = explode('.', str_replace("/", "", $_SERVER['SCRIPT_NAME']));
+<?php $currentFile = $_SERVER["PHP_SELF"];
+$parts = Explode('/', $currentFile);
+$array = explode('.',$parts[count($parts) - 1]);
 
 $pagename= $array[0]; ?> 
  
