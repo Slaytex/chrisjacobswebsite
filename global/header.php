@@ -13,7 +13,7 @@
     <ul class="nav">
       <li><a href="index.html">Home</a> </li>
       <li class="active"><a href="#">Interactive</a></li>
-    <!--  <li><a href="#">Identity</a></li>-->
+      <li><a href="identity.html">Identity</a></li>
       <li><a href="http://www.chrisjacobs.com/playground">Playground</a></li>
       <li><a href="/portfolio.pdf">Download Portfolio</a></li>
     </ul>
