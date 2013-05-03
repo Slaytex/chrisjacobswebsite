@@ -1,7 +1,7 @@
 body
 {
-	background: url(../img/bg.jpg) #282828;
-}
+	background: url('../img/youtube_background.png') repeat left top #f5f5f5;
+	}
 
 
 p
@@ -21,17 +21,6 @@ p
 	padding-bottom: 12px;
 }
 
-.chriscopy
-{
-    font-size: 27px;
-    font-family: "nimbus-sans";
-    font-style: normal;
-    font-weight: 300;
-    color: #5F5F5F;
-    padding-bottom: 12px;
-    line-height: 29px;
-    
-}
 
 .chriscopyiphone
 {
@@ -83,14 +72,10 @@ p
 .paragraphnav
 {
 	color: #a4a4a4;
-	font-size: 15px;
-	line-height: 29px;
 	margin-bottom: 28px;
 	text-align: center;
-	font-family: "nimbus-sans";
-	font-style: normal;
-	font-weight: 300;
-	}
+	font: normal 300 15px/29px "nimbus-sans";
+}
 
 .checkbox.checkmove
 {
@@ -152,22 +137,27 @@ label
 .maincaption
 {
     z-index: 7;
-    font-size: 11px;
-    background-color: rgb(89, 121, 130);
+   /* background-color: rgb(255, 255, 255);*/
     padding: 11px 18px;
-    color: white;
-    line-height: 13px;
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
+	font-family: "Hev-Cn", Arial, Helvetica, Geneva, sans-serif;
+	line-height: 22px;
+	color: #989898;
 }
 
 .maincaption.white
 {
 	background: url('../img/youtube_background.png') repeat left top #f5f5f5;
-	color: #999999;
-
+	background-color: black;
 	}
+
+.comingsoon
+{
+	font: 11px Arial, Helvetica, Geneva, sans-serif;
+}
+
 
 .alignleft
 {
@@ -195,16 +185,17 @@ label
 
 .parainfo
 {
-    margin-top: 54px;
-    padding: 0 19px 5px;
+    margin-top: 5px;
+	padding: 0 19px 5px;
 }
 
 .responsibilities, .accomplishments
 {
-	font-family: "nimbus-sans";
+	font-family: "Hev-Cn";
 	font-style: normal;
 	font-weight: 300;
     padding: 0 19px 10px;
+    text-align: center;
   
 }
 
@@ -248,25 +239,40 @@ color: #e97d3b !important;
 	padding: 0px;
 }
 
-.tagline
-{
-  font-size: 13px;
-  font-family: "nimbus-sans";
-  font-style: normal;
-  font-weight: 300;
-  color: #5F5F5F;
-  margin: 6px 0 33px;
-}
-
 .logo
 {
     font-size: 27px;
     margin-top: 20px;
-    font-family: "nimbus-sans";
+    font-family: "Hev-LtCn";
     font-style: normal;
     font-weight: 700;
-    color: #5F5F5F;
+    color: #9a9a9a;
     }
+
+.logolight
+{
+    font-family: "Hev-ThCn";
+    font-weight: 300;
+    font-style: normal;
+}
+
+.tagline
+{
+  color: #9a9a9a;
+  margin: 6px 0 33px;
+  font: normal 300 14px "Hev-ThCn";
+  letter-spacing: 1px;
+}
+
+.chriscopy
+{
+	color: #484848;
+    padding-bottom: 4px;
+	font: normal 300 25px "Hev-LtCn";
+	position: relative;
+	text-align: center;
+}
+
 
 .gotoindex:hover
 {
@@ -274,13 +280,6 @@ color: #e97d3b !important;
 
 }
 
-
-.logolight
-{
-    font-family: nimbus-sans;
-    font-weight: 300;
-    font-style: normal;
-}
 
 .homedescription
 {
@@ -296,7 +295,8 @@ color: #e97d3b !important;
 
 #main
 {
-	background-color: #fff;
+	/*background: url('../img/youtube_background.png') repeat left top #f5f5f5;*/
+	
 }
 
 .borderon
