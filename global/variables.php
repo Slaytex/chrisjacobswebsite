@@ -7,7 +7,7 @@ $nav3='Yoostar Application';
 $nav4='Yoostar Tour Microsite';
 $nav5='Alpine Electronics';
 $nav6='ABC Television website concept';
-$nav7='ABC Widget Concept';
+$nav7='DotComGuy';
 
 
 $navurl1='ipg.php';
@@ -16,7 +16,7 @@ $navurl3='yoostarapp.php';
 $navurl4='yoostartour.php';
 $navurl5='alpine.php';
 $navurl6='abc.php';
-$navurl7='abcwidget.php';
+$navurl7='dotcomguy.php';
 
 ?>
 

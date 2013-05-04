@@ -1,8 +1,24 @@
 body
 {
-	background: url('../img/youtube_background.png') repeat left top #f5f5f5;
+	background: white;
 	}
 
+.navbargradient
+{
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+border-radius: 3px;
+border: 1px solid #ededed;
+box-shadow: 0px 2px 2px -2px rgba(0, 0, 0, 0.9), inset 0px 0px 2px rgba(255, 255, 255, 0.5);
+-moz-box-shadow: 0px 2px 2px -2px rgba(0, 0, 0, 0.9), inset 0px 0px 2px rgba(255, 255, 255, 0.5);
+-webkit-box-shadow: 0px 2px 2px -2px rgba(0, 0, 0, 0.9), inset 0px 0px 2px rgba(255, 255, 255, 0.5);
+}
+
+
+body.mainindex
+{
+	background: url('../img/youtube_background.png') repeat left top #f5f5f5;
+}
 
 p
 {
@@ -86,14 +102,14 @@ p
 
 textarea, input
 {
-    background-color:#216688 !important; border: 1px solid #247196 !important; color: white !important;
+    background-color: #efefef; color: #757575; background: #efefef !important;
 }
 
 
 
 label
 {
-    color: #5cbbeb;
+    color: #767676;
     font-size: 11px;
 }
 
@@ -104,7 +120,7 @@ label
 
 .footerback
 {
-    background-color: #277095;
+    
     padding: 40px;
     margin-bottom: 0px !important; 
 }
@@ -142,9 +158,9 @@ label
     margin-top: 20px;
     margin-left: 20px;
     margin-right: 20px;
-	font-family: "Hev-Cn", Arial, Helvetica, Geneva, sans-serif;
-	line-height: 22px;
-	color: #989898;
+	color: #525252;
+	letter-spacing: 1px;
+	font: 11px/22px "Hev-Roman", Arial, Helvetica, Geneva, sans-serif;
 }
 
 .maincaption.white
@@ -152,6 +168,14 @@ label
 	background: url('../img/youtube_background.png') repeat left top #f5f5f5;
 	background-color: black;
 	}
+
+.maincaption.termiluxtype
+{
+	background-color: #58c6ff;
+	color: #fdfeff;
+	text-align: left;
+	font: 12px Hev-Cn, Arial, Helvetica, Geneva, sans-serif;
+}
 
 .comingsoon
 {
@@ -196,7 +220,7 @@ label
 	font-weight: 300;
     padding: 0 19px 10px;
     text-align: center;
-  
+	letter-spacing: 1px;
 }
 
 .accomplishments:hover
@@ -241,13 +265,17 @@ color: #e97d3b !important;
 
 .logo
 {
-    font-size: 27px;
-    margin-top: 20px;
-    font-family: "Hev-LtCn";
-    font-style: normal;
-    font-weight: 700;
-    color: #9a9a9a;
-    }
+	margin-top: 20px;
+	color: #9a9a9a;
+	font: 27px "Hev-LtCn";
+}
+
+.pagetitle
+{
+	color: #59c8ff;
+	font-family: "Hev-ThCn";
+	letter-spacing: 1px;
+}
 
 .logolight
 {
@@ -273,10 +301,15 @@ color: #e97d3b !important;
 	text-align: center;
 }
 
+.gotoindex
+{
+	color: #b0b0b0;
+}
 
 .gotoindex:hover
 {
 	text-decoration: none !important;
+	color: #d5d5d5;
 
 }
 
@@ -291,6 +324,10 @@ color: #e97d3b !important;
 	padding:10px;
 }
 
+.thumbnails
+{
+margin-top: 50px;	
+}
 
 
 #main
@@ -312,6 +349,11 @@ color: #e97d3b !important;
 .splashthumbnails
 {
 	border: 1px solid #252525;
+}
+
+.thumbcolor
+{
+	border: 1px solid #eee;
 }
 
 .vimeo
@@ -413,8 +455,11 @@ a.thumbnail:hover
 }
 
 
-
-
+.navhel
+{
+	font: 14px "Hev-Cn", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 1px;
+}
 
 
 .navbar-inner .container {width:960px;}

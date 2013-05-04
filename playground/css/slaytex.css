@@ -1,4 +1,11 @@
 
+body
+{
+	background: url('../../img/youtube_background.png') repeat left top #f5f5f5;
+	}
+
+
+
 /*Carousel Fade CSS jsfiddle.net,Jh3rF,*/
 .carousel.carousel-fade .item {
   -webkit-transition: opacity .5s ease-in-out;
@@ -30,6 +37,17 @@
 }​
 /*End carousel Fade CSS*/
 
+.youtube
+{
+	background: url('../img/youtube_background.png') repeat left top #f5f5f5;
+	border: 1px solid red;
+}
+
+.navhel
+{
+	font: 14px "Hev-Cn", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 1px;
+}
 
 
 .header
@@ -49,9 +67,9 @@
  
 .otherworks
 {
-   margin: 20px 0 0;
-   font-size: 18px;
+   margin: 40px 0 0;
    color: #656565;
+   font: 18px "Hev-Cn", Arial, Helvetica, Geneva, sans-serif;
 }
  
 .stripgraphic
@@ -171,12 +189,12 @@ margin-top: 12px;
 {
     height: 31px;
 	position: relative;
-    background-color: #e8e8e8;
+    background-color: #ffffff;
     border-radius: 5px;
     text-align: center;
-    font: bold 11px/31px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
-    opacity: 0.76;
+    font: 11px/31px "Hev-Cn", Arial, Helvetica, Geneva, sans-serif;
 	bottom: 42px;
+	letter-spacing: 1px;
 }
 
 
@@ -186,13 +204,12 @@ margin-top: 12px;
 
 .sociallinks
 {
-    font-size: 12px;
-    top: 3px;
+	top: 3px;
     position: relative;
     margin-left: 8px;
-    font-weight: bold;
-    color: #8c8c8c;
-    letter-spacing: 0;
+	color: #4298c0;
+    letter-spacing: 1px;
+	font: 14px "Hev-Cn", Arial, Helvetica, Geneva, sans-serif;
 }
 
 .socialicontop
@@ -234,6 +251,15 @@ margin-top: 12px;
 	margin-bottom: 10px;
 }
 
+.verticalfarmdesigns
+{
+	text-align:center;
+	background-color: #f1f1f1;
+	height: 30px;
+	margin: 0 0  5px 0;
+	font: 14px/30px "Hev-Cn", Arial, Helvetica, Geneva, sans-serif;
+	color: #81a93f;
+}
 
 .sonotube
 {
@@ -244,13 +270,13 @@ margin-top: 12px;
 {
     margin: 0 0 4px;
     color: #4A95B9;
-    font: bold 12px arial, helvetica;
+    font: 14px "Hev-Cn", arial, helvetica;
 }
 
 .barcopy
 {
     color: #444444;
-    font: 13px "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    font: 13px "Hev-Cn", Arial, Helvetica, Geneva, sans-serif;
     display: block;
     margin: 0 !important;
 }
@@ -263,18 +289,27 @@ margin-top: 12px;
 
 
 .gradient
-{
-background: #fefefe; /* Old browsers */
-/* IE9 SVG, needs conditional override of 'filter' to 'none' */
-background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZlZmVmZSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNkZGRkZGQiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
-background: -moz-linear-gradient(top,  #fefefe 0%, #dddddd 100%); /* FF3.6+ */
-background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#fefefe), color-stop(100%,#dddddd)); /* Chrome,Safari4+ */
-background: -webkit-linear-gradient(top,  #fefefe 0%,#dddddd 100%); /* Chrome10+,Safari5.1+ */
-background: -o-linear-gradient(top,  #fefefe 0%,#dddddd 100%); /* Opera 11.10+ */
-background: -ms-linear-gradient(top,  #fefefe 0%,#dddddd 100%); /* IE10+ */
-background: linear-gradient(to bottom,  #fefefe 0%,#dddddd 100%); /* W3C */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fefefe', endColorstr='#dddddd',GradientType=0 ); /* IE6-8 */
+{ 
+	  text-decoration: none;
+	  color: #696969;
+	  text-shadow: #fff 0px 1px 1px;
+	  background: -moz-linear-gradient(top, #f8f8f3 0%, #f3f3ee);
+	  background: -webkit-gradient(linear, left top, left bottom, from(#f8f8f3), to(#f3f3ee));
+	  -moz-border-radius: 3px;
+	  -webkit-border-radius: 3px;
+	  border-radius: 3px;
+	  border: 1px solid #edede8;
+	  box-shadow: 0px 2px 2px -2px rgba(0, 0, 0, 0.9), inset 0px 0px 2px rgba(255, 255, 255, 0.5);
+	  -moz-box-shadow: 0px 2px 2px -2px rgba(0, 0, 0, 0.9), inset 0px 0px 2px rgba(255, 255, 255, 0.5);
+	  -webkit-box-shadow: 0px 2px 2px -2px rgba(0, 0, 0, 0.9), inset 0px 0px 2px rgba(255, 255, 255, 0.5);
+	  font-variant: normal;
 }
+
+textarea, input
+{
+    background-color: #efefef; color: #757575; background: #efefef !important;
+}
+
 
 /* Form */
 #successMessage {

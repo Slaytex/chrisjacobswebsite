@@ -26,8 +26,3 @@
 </div>
 	
 
-<div class="row-fluid">
-    	<div class="span11">
-    		<p class="responsibilitiesinner">I was responsible for the interaction design, user-interface design and all aspects of design and usability. 3d models were used extensively. All head-units showed the real time, rather then a canned time - and each head-unit could be flipped around and explored. Custom sound effects as well as music tracks were implemented into the interaction design. Each site was translated into multiple languages and served around the world.</p>
-    	</div>
-</div>

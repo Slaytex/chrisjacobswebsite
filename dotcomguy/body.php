@@ -23,9 +23,3 @@
 </div>
 
 
-<div class="row-fluid">
-    	<div class="span11">
-    		<p class="responsibilitiesinner">I was responsible for the interaction design, user-interface design and the prototype itself. The prototype was built in Photoshop and then animated using Adobe After Effects. </p>
-    	</div>
-</div>
-
