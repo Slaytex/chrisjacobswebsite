@@ -1,7 +1,8 @@
-<div class="row-fluid">
+<div class="row-fluid projectbox">
+	
         <div class="span5">
             <div class="projectlogo">
-            <img src="img/afi/afi_logo.png" alt="American Film Institute and ABC Entertainment" />
+            <img class="projectimage" src="img/afi/afi_logo_strip.jpg" alt="American Film Institute and ABC Entertainment" style="margin-top: 12px;" />
                 <h4 class="projecttitle">AFI Digifest 2008 (abc)</h4>
                 <p class="projectdescription">
                 this was Developed for American Film Institute and ABC, this interface brings a non-linear spin to the chat interface. Brought to life from soup to nuts in less then 6 weeks, this interface was presented to an audience of 500 at AFI Digifest 2008 at the Kodak theater - the home of the Academy Awards.<br />It was a hit.</p>
@@ -22,6 +23,7 @@
             </div>
         </div>
     </div>
+ 
 </div>
 
 

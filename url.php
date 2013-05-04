@@ -15,7 +15,7 @@ $pagename= $array[0]; ?>
     <title>Chris Jacobs: <?php echo $pagename ?></title>
 
 </head>
-<body>
+<body class="mainindex">
 
 
 <?php include("global/header.php"); ?>

@@ -1,7 +1,7 @@
-<div class="row-fluid">
+<div class="row-fluid  projectbox">
 		<div class="span5">
 			<div class="projectlogo yoostar">
-			<img src="img/yoostar_tour/yoostar_logo.png" alt="American Film Institute and ABC Entertainment" />
+			<img src="img/yoostar_app/yoostarapp_logo_strip.jpg" alt="Yoostar" />
 			<h4 class="projecttitle">Yoostar Application</h4>
 			<p class="projectdescription">
 			Ever wanted to be in a movie? The Yoostar application allows anyone to record themselves in one of hundreds of popular movie scenes. When designing this application, the interaction was very key in that the app had to work with a mouse and remote control. The 3d scrolling helped to bring a cinematic feel to the app while maintaining an easy and usable interaction design.</p>
