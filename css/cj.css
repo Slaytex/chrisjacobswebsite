@@ -442,6 +442,13 @@ a.thumbnail:hover
 }
 
 
+.alerttypeface
+{
+	text-align: center;
+	font: 13px "Hev-Cn", Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 0;
+}
+
 .js-video
 {
 	height: 0;
