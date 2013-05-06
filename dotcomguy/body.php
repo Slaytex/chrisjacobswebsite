@@ -6,7 +6,7 @@
             <img src="img/yoostar_app/yoostarapp_logo_strip.jpg" alt="Yoostar" />
                 <h4 class="projecttitle">Yoostar Application</h4>
                 <p class="projectdescription">
-               DotComGuy asked me to completely revamp their brand. I created multiple websites as well as numerous print pieces. The initial goal of the project was to build up a brand strong enough to partner with a leading national brand. After just a few months, DotComGuy was successful in partnering with one of the world&rsquo;s largest currier companies.               	</p>                
+               DotComGuy asked me to completely revamp their brand. I created multiple websites as well as numerous print pieces. The initial goal of the project was to build up a brand strong enough to partner with a leading national brand. After just a few months, DotComGuy was successful in partnering with one of the world&rsquo;s largest courier companies.</p>                
 	
                 			</div>
                 		</div>
