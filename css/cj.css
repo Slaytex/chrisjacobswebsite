@@ -27,8 +27,7 @@ p
 
 .littlenavicon
 {
-	width: 256px;
-	height: 35px;
+	height: 34px;
 	position: relative;
 	background-color: white;
 	-moz-border-radius: 3px;
@@ -44,8 +43,10 @@ p
 {
 	position: relative;
 	left: 10px;
-	top: 3px;
-	
+	top: 2px;
+	font-family: Hev-Cn, Arial, Helvetica, Geneva, sans-serif;
+	letter-spacing: 1px;
+	color: #329dc8 !important;
 }
 
 .splashheader

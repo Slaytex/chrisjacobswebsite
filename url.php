@@ -29,69 +29,135 @@ $pagename= $array[0]; ?>
 
 <!--inside nav-->
 
-<div class="row-fluid">
-    <div class="span12">
-        <p class="paragraphnav visible-desktop hidden-phone visible-tablet">
-        <a class="" href="<?php echo $navurl1 ?>"><?php echo $nav1 ?></a>
-        
-        <span class="pipenav"> | </span>
-        
-        <a class="" href="<?php echo $navurl2 ?>"><?php echo $nav2 ?></a>
-        
-        <span class="pipenav"> | </span>
-        
-        <a class="" href="<?php echo $navurl3 ?>"><?php echo $nav3 ?></a>
-        
-        <br />
-        
-        <a class="" href="<?php echo $navurl4 ?>"><?php echo $nav4 ?></a>
-        
-        <span class="pipenav"> | </span>
-        
-        <a class="" href="<?php echo $navurl5 ?>"><?php echo $nav5 ?></a>
-        
-        <span class="pipenav"> | </span>
-        
-        <a class="" href="<?php echo $navurl6 ?>"><?php echo $nav6 ?></a>
-        
-        <br />
-             
-        <a class="" href="<?php echo $navurl7 ?>"><?php echo $nav7 ?></a>
-        
-        </p>	
-        
-        <p class="paragraphnav hidden-desktop hidden-tablet visible-phone">
-        <a class="" href="<?php echo $navurl1 ?>"><?php echo $nav1 ?></a>
-        
-         <br />
-        
-        <a class="" href="<?php echo $navurl2 ?>"><?php echo $nav2 ?></a>
-        
-        <br />
-        
-        <a class="" href="<?php echo $navurl3 ?>"><?php echo $nav3 ?></a>
-        
-        <br />
-        
-        <a class="" href="<?php echo $navurl4 ?>"><?php echo $nav4 ?></a>
-        
-        <br />
-        <a class="" href="<?php echo $navurl5 ?>"><?php echo $nav5 ?></a>
-        
-
-        
-        <a class="" href="<?php echo $navurl6 ?>"><?php echo $nav6 ?></a>
-        
-        <br />
-             
-        <a class="" href="<?php echo $navurl7 ?>"><?php echo $nav7 ?></a>
-        
-        </p>	
-        
-        
-        
-    </div>
-</div>
+	<div class="visible-desktop visible-phone hidden-tablet">
+		<div class="row-fluid">
+			<div class="span12">
+				<div style="padding:0 40px;">
+					<ul>
+					  <li class="span3">
+					  <div class="littlenavicon">
+					  		<img src="img/navicons/alpine.png"><span class="navicontype">Alpine Electronics</span>                  
+					  </div>			   
+					  </li>
+					  <li class="span3">
+					  <div class="littlenavicon">
+					  		<img src="img/navicons/yoostarapp.png"><span class="navicontype">Yoostar App</span>                  
+					  </div>			   
+					  </li>
+					  <li class="span3">
+					  <div class="littlenavicon">
+					  		<img src="img/navicons/abc.png"><span class="navicontype">abc Digital</span>                  
+					  </div>			   
+					  </li>
+					  <li class="span3">
+					  <div class="littlenavicon">
+					  		<img src="img/navicons/ipg.png"><span class="navicontype">Interpublic Group</span>                  
+					  </div>			   
+					  </li>
+				  </ul>
+	
+				</div>
+					
+				</div>
+			</div>
+	
+	<div class="row-fluid" style="margin-bottom: 30px;">
+			<div class="span12">
+				<div style="padding:0 40px;">
+					<ul>
+					  <li class="span3">
+					  <div class="littlenavicon">
+					  		<img src="img/navicons/yoostartour.png"><span class="navicontype">Yoostar Tour</span>                  
+					  </div>			   
+					  </li>
+					  <li class="span3">
+					  <div class="littlenavicon">
+					  		<img src="img/navicons/afi.png"><span class="navicontype">AFI Chat</span>                  
+					  </div>			   
+					  </li>
+					  <li class="span3">
+					  <div class="littlenavicon">
+					  		<img src="img/navicons/dotcomguy.png"><span class="navicontype">DotComGuy</span>                  
+					  </div>			   
+					  </li>
+					  <!--<li class="span3">
+					  <div class="littlenavicon">
+					  		<img src="img/navicons/alpine.png"><span class="navicontype">IPG LAB</span>                  
+					  </div>			   
+					  </li>-->
+				  </ul>
+	
+				</div>
+					
+				</div>
+			</div>
+		</div>
+		
+		<div class="hidden-desktop visible-tablet hidden-phone">
+			<div class="row-fluid">
+				<div class="span12">
+					<div style="padding:0 40px;">
+						<ul>
+						  <li class="span3">
+						  <div class="littlenavicon">
+						  		<a href="alpine.php"><img src="img/navicons/alpine.png"><span class="navicontype">Alpine</span></a>              
+						  </div>			   
+						  </li>
+						  <li class="span3">
+						  <div class="littlenavicon">
+						  		<a href="alpine.php"><img src="img/navicons/yoostarapp.png"><span class="navicontype">Yoostar</span></a>                
+						  </div>			   
+						  </li>
+						  <li class="span3">
+						  <div class="littlenavicon">
+						  		<img src="img/navicons/abc.png"><span class="navicontype">abc TV</span>                  
+						  </div>			   
+						  </li>
+						  <li class="span3">
+						  <div class="littlenavicon">
+						  		<img src="img/navicons/ipg.png"><span class="navicontype">IPG</span>                  
+						  </div>			   
+						  </li>
+					  </ul>
+		
+					</div>
+						
+					</div>
+				</div>
+		
+		<div class="row-fluid" style="margin-bottom: 30px;">
+				<div class="span12">
+					<div style="padding:0 40px;">
+						<ul>
+						  <li class="span3">
+						  <div class="littlenavicon">
+						  		<img src="img/navicons/yoostartour.png"><span class="navicontype">Yoostar</span>                  
+						  </div>			   
+						  </li>
+						  <li class="span3">
+						  <div class="littlenavicon">
+						  		<img src="img/navicons/afi.png"><span class="navicontype">AFI</span>                  
+						  </div>			   
+						  </li>
+						  <li class="span3">
+						  <div class="littlenavicon">
+						  		<img src="img/navicons/dotcomguy.png"><span class="navicontype">DotComGuy</span>                  
+						  </div>			   
+						  </li>
+						  <!--<li class="span3">
+						  <div class="littlenavicon">
+						  		<img src="img/navicons/alpine.png"><span class="navicontype">IPG LAB</span>                  
+						  </div>			   
+						  </li>-->
+					  </ul>
+		
+					</div>
+						
+					</div>
+				</div>
+			</div>
+		
+	
 
 <!--end inside nav-->
 
