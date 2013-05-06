@@ -29,133 +29,69 @@ $pagename= $array[0]; ?>
 
 <!--inside nav-->
 
-	<div class="visible-desktop visible-phone hidden-tablet">
+	
 		<div class="row-fluid">
-			<div class="span12">
-				<div style="padding:0 40px;">
-					<ul>
-					  <li class="span3">
-					  <div class="littlenavicon">
-					  		<img src="img/navicons/alpine.png"><span class="navicontype">Alpine Electronics</span>                  
-					  </div>			   
-					  </li>
-					  <li class="span3">
-					  <div class="littlenavicon">
-					  		<img src="img/navicons/yoostarapp.png"><span class="navicontype">Yoostar App</span>                  
-					  </div>			   
-					  </li>
-					  <li class="span3">
-					  <div class="littlenavicon">
-					  		<img src="img/navicons/abc.png"><span class="navicontype">abc Digital</span>                  
-					  </div>			   
-					  </li>
-					  <li class="span3">
-					  <div class="littlenavicon">
-					  		<img src="img/navicons/ipg.png"><span class="navicontype">Interpublic Group</span>                  
-					  </div>			   
-					  </li>
-				  </ul>
-	
-				</div>
-					
-				</div>
-			</div>
-	
-	<div class="row-fluid" style="margin-bottom: 30px;">
-			<div class="span12">
-				<div style="padding:0 40px;">
-					<ul>
-					  <li class="span3">
-					  <div class="littlenavicon">
-					  		<img src="img/navicons/yoostartour.png"><span class="navicontype">Yoostar Tour</span>                  
-					  </div>			   
-					  </li>
-					  <li class="span3">
-					  <div class="littlenavicon">
-					  		<img src="img/navicons/afi.png"><span class="navicontype">AFI Chat</span>                  
-					  </div>			   
-					  </li>
-					  <li class="span3">
-					  <div class="littlenavicon">
-					  		<img src="img/navicons/dotcomguy.png"><span class="navicontype">DotComGuy</span>                  
-					  </div>			   
-					  </li>
-					  <!--<li class="span3">
-					  <div class="littlenavicon">
-					  		<img src="img/navicons/alpine.png"><span class="navicontype">IPG LAB</span>                  
-					  </div>			   
-					  </li>-->
-				  </ul>
-	
-				</div>
-					
-				</div>
-			</div>
-		</div>
-		
-		<div class="hidden-desktop visible-tablet hidden-phone">
-			<div class="row-fluid">
-				<div class="span12">
-					<div style="padding:0 40px;">
-						<ul>
-						  <li class="span3">
-						  <div class="littlenavicon">
-						  		<a href="alpine.php"><img src="img/navicons/alpine.png"><span class="navicontype">Alpine</span></a>              
-						  </div>			   
-						  </li>
-						  <li class="span3">
-						  <div class="littlenavicon">
-						  		<a href="alpine.php"><img src="img/navicons/yoostarapp.png"><span class="navicontype">Yoostar</span></a>                
-						  </div>			   
-						  </li>
-						  <li class="span3">
-						  <div class="littlenavicon">
-						  		<img src="img/navicons/abc.png"><span class="navicontype">abc TV</span>                  
-						  </div>			   
-						  </li>
-						  <li class="span3">
-						  <div class="littlenavicon">
-						  		<img src="img/navicons/ipg.png"><span class="navicontype">IPG</span>                  
-						  </div>			   
-						  </li>
-					  </ul>
-		
-					</div>
+					<div class="span12 top_sec_nav" style="padding: 0 17px 0 17px; margin-bottom: 26px;">
 						
-					</div>
-				</div>
 		
-		<div class="row-fluid" style="margin-bottom: 30px;">
-				<div class="span12">
-					<div style="padding:0 40px;">
-						<ul>
-						  <li class="span3">
-						  <div class="littlenavicon">
-						  		<img src="img/navicons/yoostartour.png"><span class="navicontype">Yoostar</span>                  
-						  </div>			   
-						  </li>
-						  <li class="span3">
-						  <div class="littlenavicon">
-						  		<img src="img/navicons/afi.png"><span class="navicontype">AFI</span>                  
-						  </div>			   
-						  </li>
-						  <li class="span3">
-						  <div class="littlenavicon">
-						  		<img src="img/navicons/dotcomguy.png"><span class="navicontype">DotComGuy</span>                  
-						  </div>			   
-						  </li>
-						  <!--<li class="span3">
-						  <div class="littlenavicon">
-						  		<img src="img/navicons/alpine.png"><span class="navicontype">IPG LAB</span>                  
-						  </div>			   
-						  </li>-->
-					  </ul>
+							<ul>
+							  <li class="span4">
 		
-					</div>
+							  <div class="littlenavicon">
+							  		<img src="img/navicons/dotcomguy.png"><span class="navicontype">DotComGuy</span>                  
+							  </div>			   
+							  </li>
+		
+		
+							  <li class="span4">
+		
+							  <div class="littlenavicon">
+							  		<img src="img/navicons/yoostarapp.png"><span class="navicontype">Yoostar App</span>                  
+							  </div>			   
+							  </li>
+		
+		
+							  <li class="span4">
+		
+							  <div class="littlenavicon">
+							  		<img src="img/navicons/afi.png"><span class="navicontype">AFI/abc Chat Application</span>                  
+							  </div>			   
+							  </li>
+							  
+		
+							  <li class="span4">
+							  <div class="littlenavicon">
+							  		<img src="img/navicons/ipg.png"><span class="navicontype">IPG Emerging Media Lab</span>                  
+							  </div>			   
+							  </li>
+							  
+							  <li class="span4">
+							  <div class="littlenavicon">
+							  		<img src="img/navicons/abc.png"><span class="navicontype">abc Entertainment</span>                  
+							  </div>	   
+							  </li>
+							  
+							  
+							  <li class="span4">
+							  <div class="littlenavicon">
+							  		<img src="img/navicons/yoostartour.png"><span class="navicontype">Yoostar Tour</span>                  
+							  </div>			   
+							  </li>
+							  
+							  </li>
+							  <li class="span4">
+							  <div class="littlenavicon">
+							  		<img src="img/navicons/alpine.png"><span class="navicontype">Alpine Experience the Drive</span>                  
+							  </div>			   
+							  </li>
 						
+						
+						  </ul>
+			
+					
+							
+						</div>
 					</div>
-				</div>
-			</div>
 		
 	
 

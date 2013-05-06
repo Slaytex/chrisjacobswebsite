@@ -49,6 +49,29 @@ p
 	color: #329dc8 !important;
 }
 
+/*interactive nav elements*/
+
+.top_sec_nav>ul {
+	margin:0px 0px 0px 0px;
+}
+
+
+.top_sec_nav .span4 {
+	display:inline-block;
+	margin-bottom:10px;
+}
+
+.top_sec_nav .span4:nth-child(4n+0){
+	margin-left:0px;
+}
+
+.top_sec_nav .span4:nth-child(7n+0){
+	margin-left:0px;
+	}
+
+/*end interactive nav elements*/
+
+
 .splashheader
 {
 	margin: 30px 0 0;
