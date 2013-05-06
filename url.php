@@ -37,52 +37,52 @@ $pagename= $array[0]; ?>
 							<ul>
 							  <li class="span4">
 		
-							  <div class="littlenavicon">
+							  <a href="dotcomguy.php"><div class="littlenavicon">
 							  		<img src="img/navicons/dotcomguy.png"><span class="navicontype">DotComGuy</span>                  
-							  </div>			   
+							  </div></a>			   
 							  </li>
 		
 		
 							  <li class="span4">
 		
-							  <div class="littlenavicon">
+							  <a href="yoostarapp.php"><div class="littlenavicon">
 							  		<img src="img/navicons/yoostarapp.png"><span class="navicontype">Yoostar App</span>                  
-							  </div>			   
+							  </div></a>			   
 							  </li>
 		
 		
 							  <li class="span4">
 		
-							  <div class="littlenavicon">
+							  <a href="afi.php"><div class="littlenavicon">
 							  		<img src="img/navicons/afi.png"><span class="navicontype">AFI/abc Chat Application</span>                  
-							  </div>			   
+							  </div></a>			   
 							  </li>
 							  
 		
 							  <li class="span4">
-							  <div class="littlenavicon">
+							  <a href="ipg.php"><div class="littlenavicon">
 							  		<img src="img/navicons/ipg.png"><span class="navicontype">IPG Emerging Media Lab</span>                  
-							  </div>			   
+							  </div></a>			   
 							  </li>
 							  
 							  <li class="span4">
-							  <div class="littlenavicon">
+							  <a href="abc.php"><div class="littlenavicon">
 							  		<img src="img/navicons/abc.png"><span class="navicontype">abc Entertainment</span>                  
-							  </div>	   
+							  </div></a>	   
 							  </li>
 							  
 							  
 							  <li class="span4">
-							  <div class="littlenavicon">
+							  <a href="yoostartour.php"><div class="littlenavicon">
 							  		<img src="img/navicons/yoostartour.png"><span class="navicontype">Yoostar Tour</span>                  
-							  </div>			   
+							  </div></a>			   
 							  </li>
 							  
 							  </li>
 							  <li class="span4">
-							  <div class="littlenavicon">
+							  <a href="alpine.php"><div class="littlenavicon">
 							  		<img src="img/navicons/alpine.png"><span class="navicontype">Alpine Experience the Drive</span>                  
-							  </div>			   
+							  </div></a>			   
 							  </li>
 						
 						
