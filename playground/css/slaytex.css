@@ -253,13 +253,16 @@ margin-top: 12px;
 
 .verticalfarmdesigns
 {
-	text-align:center;
+	text-align: left;
 	background-color: #f1f1f1;
-	height: 30px;
-	margin: 0 0  5px 0;
-	font: 14px/30px "Hev-Cn", Arial, Helvetica, Geneva, sans-serif;
+	margin: 0 0 16px;
+	font: 13px/18px "Hev-Cn", Arial, Helvetica, Geneva, sans-serif;
 	color: #81a93f;
+	padding-right: 20px;
+	padding-left: 20px;
 }
+
+
 
 .sonotube
 {
