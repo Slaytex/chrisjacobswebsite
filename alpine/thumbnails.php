@@ -30,7 +30,15 @@
 			  	    <img src="img/alpine/thumbs/05.jpg" alt="">
 			  	  </a>				   
 			  	  </li>
+			  	  
+			  	  <li class="span3 thumbcolor">
+			  	  <a class="thumbnail fancybox" rel="group" href="img/alpine/06_large.jpg" title="">
+			  	    <img src="img/alpine/thumbs/06.jpg" alt="">
+			  	  </a>				   
+			  	  </li>
 			  </ul>
+			  
+			
 
 			</div>
 				

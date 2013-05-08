@@ -12,7 +12,7 @@
     <div class="nav-collapse">
     <ul class="nav navhel">
       <li><a href="index.html">Home</a> </li>
-      <li class="active"><a href="ipg.php">Interactive</a></li>
+      <li class="active"><a href="alpine.php">Interactive</a></li>
       <li><a href="identity.html">Identity</a></li>
       <li><a href="industrial.html">Industrial Design</a></li>
       <li><a href="playground/">Playground</a></li>
