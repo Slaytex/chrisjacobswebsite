@@ -5,10 +5,9 @@
         <div class="span5" style="background-color: white;">
             <div class="projectlogo">
             <img class="projectimage" src="img/ipg/ipg_logo_strip.png" alt="Interpublic Group" style="margin-top: 12px;" />
-                <h4 class="projecttitle">Interpublic Fashion Touchscreen</h4>
+                <h4 class="projecttitle">IPG Lab&#39;s Fashion Touchscreen</h4>
                 <p class="projectdescription">
-                Interpublic Group's Emerging Media Lab asked us to come up with a new way of interacting with a clothing store's product in a way that's seldom seen - using a projected interface either on glass or behind a mirror in a dressing room. I had this fun idea of dressing a virtual mannequin - available to a shopper inside the store or outside the store.
-                	<div class="vimeohd">
+                I was very fortunate to have been asked to concept and design IPG&#39;s retail touchpoint fashion touchscreen for their LAB in Los Angeles. I took the helm of this project and turned it around in as little as 3 weeks from start to finish. It is now on display in their LA and New York offices. <div class="vimeohd">
                 	<a href="http://vimeo.com/14144675">
                 	<img src="img/vimeo_icon_small.png" width="30" height="30" alt="">
                 	Click-through Demo on Vimeo
