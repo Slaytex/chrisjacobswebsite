@@ -27,6 +27,13 @@ body
   z-index: 1;
 }
 
+.socialrule
+{
+	border-top: 1px solid #CECECE;
+	border-bottom: 1px solid #ffffff;
+	
+}
+
 .scribbling
 {
   height: 35px; background: #f5f5f5 url('../img/scribble.jpg') no-repeat left top;
@@ -226,7 +233,7 @@ margin-top: 12px;
 
 .socialiconbottom
 {
-    margin-bottom: 33px;
+    margin-bottom: 24px;
 }
 
 
